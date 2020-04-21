@@ -8,8 +8,10 @@ Você deve copiar o arquivo config.default.ch para config.ch
 Depois ajuste as configuração com seus dados / conta:
 
 Ficando algo parecido com isso:
+`
 #define IBM_API_KEY "0000000000-uJxxxxxxxxxxx-xxxxxxxxxxxxxx-00xx"
 #define IBM_URL     "https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/xxxxxxxx-yyyy-xxxx-xxxx-xxxxyyyyyyyy/v1/"
+`
 
 Feito isso, basta ter o Harbour instalado no seu Linux e compilar. 
 A compilação está no arquivo compila.sh - Em windows basta fazer algo similar compila.bat
