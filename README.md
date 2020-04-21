@@ -7,7 +7,9 @@ Crie sua conta gratuitamente no site da IBM ou pesquise por https://cloud.ibm.co
 Você deve copiar o arquivo config.default.ch para config.ch
 Depois ajuste as configuração com seus dados / conta:
 
-Ficando algo parecido com isso:
+**config.ch**
+
+
 `
 #define IBM_API_KEY "0000000000-uJxxxxxxxxxxx-xxxxxxxxxxxxxx-00xx"
 #define IBM_URL     "https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/xxxxxxxx-yyyy-xxxx-xxxx-xxxxyyyyyyyy/v1/"
