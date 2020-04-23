@@ -1,7 +1,10 @@
 /*
+
 REQUEST HB_CodePage_PTISO
 Set( _SET_CODEPAGE, "PTISO" )	 
+
 */
+
 #include "inkey.ch"
 #include "fileio.ch"
 #require class_win
